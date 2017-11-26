@@ -3,8 +3,6 @@ package com.seeyon.apps.test2;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.mvel2.optimizers.impl.refl.nodes.ArrayLength;
-
 import com.alibaba.fastjson.JSONObject;
 import com.seeyon.ctp.common.exceptions.BusinessException;
 import com.seeyon.ctp.organization.bo.V3xOrgMember;
