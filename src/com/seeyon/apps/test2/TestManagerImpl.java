@@ -5,7 +5,7 @@ public class TestManagerImpl implements TestManager {
 	@Override
 	public String getName() {
 		// TODO Auto-generated method stub
-		return null;
+		return "my name is 刘建新";
 	}
 
 	@Override
