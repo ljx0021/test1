@@ -11,7 +11,7 @@ public class TestManagerImpl implements TestManager {
 	@Override
 	public String showListMember() {
 		// TODO Auto-generated method stub
-		return null;
+		return "wc";
 	}
 
 }
