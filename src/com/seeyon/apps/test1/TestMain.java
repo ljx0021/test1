@@ -4,4 +4,7 @@ public class TestMain {
 	public static void main(String[] args) {
 		System.out.println("sadfa");
 	}
+	public static void say(){
+		System.out.println("sssss");
+	}
 }
